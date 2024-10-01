@@ -1,0 +1,15 @@
+pub const WHITE: u32 = 0xFFFFFFFF;
+pub const RED: u32 = 0xFF0000FF;
+pub const BLACK: u32 = 0xFF000000;
+pub const SILVER: u32 = 0xFFC0C0C0;
+pub const GRAY: u32 = 0xFF808080;
+pub const MAROON: u32 = 0xFF800000;
+pub const YELLOW: u32 = 0xFFFFFF00;
+pub const OLIVE: u32 = 0xFF808000;
+pub const LIME: u32 = 0xFF00FF00;
+pub const AQUA: u32 = 0xFF00FFFF;
+pub const TEAL: u32 = 0xFF008080;
+pub const BLUE: u32 = 0xFF0000FF;
+pub const NAVY: u32 = 0xFF000080;
+pub const FUCHSIA: u32 = 0xFFFF00FF;
+pub const PURPLE: u32 = 0xFF800080;
